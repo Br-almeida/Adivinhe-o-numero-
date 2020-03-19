@@ -29,10 +29,10 @@ function reset() {
 
     document.getElementById("nomeJogador1").value = ""
     document.getElementById("numeroDigitado").value = ""
+    document.getElementById("numeroAdivinhar").value = ""
     tentativas = 0
 
 }
-
 
 var numeroPensado = Math.round(Math.random() * 100) //gerador de numero
 var tentativas = 0
