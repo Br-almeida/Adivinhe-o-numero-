@@ -63,13 +63,13 @@ function verificar2() {
         numeroAdivinhar = document.getElementById("numeroAdivinhar")
 
     } else if ((numeroDigitado > numeroAdvinhar)) {
-        alert("VOCE ERRRRRRRROOOOOOU... TENTE NOVAMENTE!, Seu lançe foi muito alto ");
+        alert("VOCE ERRRRRRRROOOOOOU... TENTE NOVAMENTE!, Seu lance foi muito alto ");
         tentativas++
         var n = adicionarNome(tentativas)
 
 
     } else if ((numeroDigitado < numeroAdvinhar)) {
-        alert("VOCE ERRRRRRRROOOOOOU... TENTE NOVAMENTE!, Seu lançe foi muito baixo ");
+        alert("VOCE ERRRRRRRROOOOOOU... TENTE NOVAMENTE!, Seu lance foi muito baixo ");
         tentativas++
         var n = adicionarNome(tentativas)
 
