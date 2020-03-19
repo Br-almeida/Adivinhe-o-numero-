@@ -12,18 +12,6 @@ function adicionarNome(tentativas) {
 
 
 
-/**function adicionarTentativas(tentativas) {
-
-    var tabela = document.getElementsByTagName('table')[0]
-    var novaLinha = tabela.insertRow(tabela.length)
-    celula1 = novaLinha.insertCell(0)
-    celula1.innerHTML = "Você já tentou "
-    celula1 = novaLinha.insertCell(1)
-    celula1.innerHTML = tentativas
-
-}**/
-
-
 
 function reset() {
 
