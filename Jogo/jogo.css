@@ -226,14 +226,13 @@ body {
 }
 
 #tabelaRank {
-    width: 300px;
+    width: 200px;
     margin-top: -20px;
     margin-left: 10px;
     text-align: left;
     border-radius: 2mm;
     background-color: #696969;
     font-size: 1.5rem;
-    border: 1px solid;
 }
 
 #tabelaTentativas {
@@ -242,7 +241,6 @@ body {
     border-radius: 2mm;
     background-color: #696969;
     font-size: 1.5rem;
-    border: 1px solid;
 }
 
 .a1 #numeroAdivinhar {
